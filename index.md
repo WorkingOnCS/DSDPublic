@@ -1,25 +1,57 @@
-## Welcome to GitHub Pages
+## Welcome to JT(Jackeylove Team) Pages
 
-You can use the [editor on GitHub](https://github.com/WorkingOnCS/DSDPublic/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Our goal is to implement an online medicine sales management system. Maybe it sounds easier to implement, after all, it's not particularly technical. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+However, how to do a good system is not easy, which needs to seriously consider the needs of customers, as well as special services; in addition, the system is very practical application value, because it is very common in our life. 
 
-### Markdown
+### Group Numbers
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Our group members are not a top group compared to other groups. However, all of us have a sense of responsibility and confidence to do everything well. 
 
 ```markdown
-Syntax highlighted code block
+Here is an introduction to our group numbers
 
-# Header 1
-## Header 2
-### Header 3
+# Shizhe Liu
 
-- Bulleted
-- List
+He is a senior in Software College of Jilin University. His interests include data mining and artifical intelligence.
 
-1. Numbered
-2. List
+He also like playing football and swimming. Although his football level isn't very good, he enjoys the process of playing.
+
+- Characteristic
+1. Handsome
+2. easygoing
+3. responsible
+
+# Weikang Du
+He is a senior in Software College of Jilin University. His interests include machine learning and artifical intelligence.
+
+He wants to study abroad and study artificial intelligence. At present, he is trying to learn English. 
+
+- Characteristic
+1. Handsome
+2. easygoing
+3. humble
+4. outgoing
+
+# Kedong Xiu
+He is a senior in Software College of Jilin University. He is very fond of playing basketball. 
+
+- Characteristic
+1. Strong learning ability
+2. tall
+
+# Yuzhe Chen
+He is a senior in Software College of Jilin University. He will go to the Institute of network research of Chinese Academy of Sciences for further study. 
+
+- Characteristic
+1. funny
+
+# Di An
+He is a senior in Software College of Jilin University. He plans to study in Japan. He is full of interest in Japanese culture. 
+
+- Characteristic
+1. modest
+2. Strong self-study ability 
 
 **Bold** and _Italic_ and `Code` text
 
@@ -28,10 +60,8 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### More information
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WorkingOnCS/DSDPublic/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Jackeylove Team, Jilin University, 2020. Designed by Shizhe Liu.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
