@@ -62,10 +62,14 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Contact us
 
-Shizhe Liu : 2414946247@qq.com
 Weikang Du : 592262731@qq.com
+
+Shizhe Liu : 2414946247@qq.com
+
 Kedong Xiu : 1226448285@qq.com
+
 Yuzhe Chen : 1059496154@qq.com
+
 Di An : 255696@qq.com
 
 ### More infomation
