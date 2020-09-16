@@ -1,4 +1,4 @@
-## Welcome to JT(Jackeylove Team) Pages
+## Welcome to HT(Happyiness Team) Pages
 
 Our goal is to implement an online medicine sales management system. Maybe it sounds easier to implement, after all, it's not particularly technical. 
 
@@ -11,17 +11,6 @@ Our group members are not a top group compared to other groups. However, all of 
 ```markdown
 Here is an introduction to our group numbers
 
-# Shizhe Liu
-
-He is a senior in Software College of Jilin University. His interests include data mining and artifical intelligence.
-
-He also like playing football and swimming. Although his football level isn't very good, he enjoys the process of playing.
-
-- Characteristic
-1. Handsome
-2. easygoing
-3. responsible
-
 # Weikang Du
 He is a senior in Software College of Jilin University. His interests include machine learning and artifical intelligence.
 
@@ -32,6 +21,17 @@ He wants to study abroad and study artificial intelligence. At present, he is tr
 2. easygoing
 3. humble
 4. outgoing
+
+# Shizhe Liu
+
+He is a senior in Software College of Jilin University. His interests include data mining and artifical intelligence.
+
+He also like playing football and swimming. Although his football level isn't very good, he enjoys the process of playing.
+
+- Characteristic
+1. Handsome
+2. easygoing
+3. responsible
 
 # Kedong Xiu
 He is a senior in Software College of Jilin University. He is very fond of playing basketball. 
@@ -60,8 +60,15 @@ He is a senior in Software College of Jilin University. He plans to study in Jap
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### More information
+### Contact us
 
-Jackeylove Team, Jilin University, 2020. Designed by Shizhe Liu.
+Shizhe Liu : 2414946247@qq.com
+Weikang Du : 592262731@qq.com
+Kedong Xiu : 1226448285@qq.com
+Yuzhe Chen :
+Di An : 
 
+### More infomation
 
+This website may not look good, but it doesn't mean that our team members are not excellent. 
+In fact, our group members have a strong learning ability and sense of responsibility, which is a trustworthy team. 
