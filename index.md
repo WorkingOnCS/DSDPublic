@@ -17,7 +17,7 @@ All the people in our group have an optimistic and positive attitude, so this is
 ```markdown
 Here is an introduction to our group numbers
 
-# Weikang Du
+# Weikang Du - PM & RA
 He is a senior in Software College of Jilin University. His interests include machine learning and artifical intelligence.
 
 He wants to study abroad and study artificial intelligence. At present, he is trying to learn English. 
@@ -28,7 +28,7 @@ He wants to study abroad and study artificial intelligence. At present, he is tr
 3. humble
 4. outgoing
 
-# Shizhe Liu
+# Shizhe Liu - PM & Liason
 
 He is a senior in Software College of Jilin University. His interests include data mining and artifical intelligence.
 
@@ -39,20 +39,20 @@ He also like playing football and swimming. Although his football level isn't ve
 2. responsible
 3. optimistic
 
-# Kedong Xiu
+# Kedong Xiu - Coder & Tester
 He is a senior in Software College of Jilin University. He is very fond of playing basketball. 
 
 - Characteristic
 1. Strong learning ability
 2. tall
 
-# Yuzhe Chen
+# Yuzhe Chen - Coder & Tester
 He is a senior in Software College of Jilin University. He will go to the Institute of network research of Chinese Academy of Sciences for further study. 
 
 - Characteristic
 1. funny
 
-# Di An
+# Di An - SA
 He is a senior in Software College of Jilin University. He plans to study in Japan. He is full of interest in Japanese culture. 
 
 - Characteristic
