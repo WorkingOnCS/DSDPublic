@@ -1,12 +1,18 @@
 ## Welcome to HT(Happyiness Team) Pages
 
-Our goal is to implement an online medicine sales management system. Maybe it sounds easier to implement, after all, it's not particularly technical. 
+We chose Scoliosis Detection via X-ray Photo Recognition as the experimental subject.
 
-However, how to do a good system is not easy, which needs to seriously consider the needs of customers, as well as special services; in addition, the system is very practical application value, because it is very common in our life. 
+The module we are responsible for is the server side. Our workload is relatively less, but it does not mean that our work is meaningless. 
+
+In fact, you can think of a server as an interface that integrates all functions. 
+
+Since our work does not involve algorithms, if you want to challenge difficult topics, please choose to cooperate with other teams. 
 
 ### Group Numbers
 
 Our group members are not a top group compared to other groups. However, all of us have a sense of responsibility and confidence to do everything well. 
+
+All the people in our group have an optimistic and positive attitude, so this is why our group is called happiness team. 
 
 ```markdown
 Here is an introduction to our group numbers
@@ -29,9 +35,9 @@ He is a senior in Software College of Jilin University. His interests include da
 He also like playing football and swimming. Although his football level isn't very good, he enjoys the process of playing.
 
 - Characteristic
-1. Handsome
-2. easygoing
-3. responsible
+1. easygoing
+2. responsible
+3. optimistic
 
 # Kedong Xiu
 He is a senior in Software College of Jilin University. He is very fond of playing basketball. 
@@ -62,15 +68,19 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Contact us
 
-Weikang Du : 592262731@qq.com
+If you are interested in the subject of our group, please contact us. 
 
-Shizhe Liu : 2414946247@qq.com
+Please mainly communicate with our project manager, they are Weikang DU and Shizhe LIU 
 
-Kedong Xiu : 1226448285@qq.com
+Weikang DU : 592262731@qq.com or duwk5517@mails.jlu.edu.cn  
 
-Yuzhe Chen : 1059496154@qq.com
+Shizhe LIU : 2414946247@qq.com or liusz5517@mails.jlu.edu.cn 
 
-Di An : 255696@qq.com
+Kedong XIU : 1226448285@qq.com
+
+Yuzhe CHEN : 1059496154@qq.com
+
+Di AN : 255696@qq.com
 
 ### More infomation
 
